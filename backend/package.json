@@ -1,0 +1,23 @@
+{
+  "name": "test-backend_v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": " set NODE_ENV=development&&set RAZORPAY_KEY_ID=rzp_test_vdCsIBMxD0SYlk&&node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongodb": "^4.0.1",
+    "razorpay": "^2.0.6",
+    "shortid": "^2.2.16"
+  }
+}

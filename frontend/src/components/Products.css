@@ -1,0 +1,89 @@
+.Products{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.shirt:hover, .suit:hover, .pant:hover{
+    cursor: pointer;
+}
+
+.shirt{
+    position: relative;
+    background-image: url("../images/shirt-home.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: space-between;
+    height: 600px;
+    width: 420px;
+    font-size: 35px;
+    color: white;
+    text-shadow: 1px 1px 1px #303030;
+    padding: 20px 0px;
+    margin-bottom: 50px;
+    transition: transform 0.5s;
+    overflow: hidden;
+}
+
+.shirt:hover{
+    transform: scale(110%);
+}
+
+.suit{
+    position: relative;
+    background-image: url("../images/suit2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: space-between;
+    height: 600px;
+    width: 420px;
+    font-size: 35px;
+    color: white;
+    text-shadow: 1px 1px 1px #303030;
+    padding: 20px 0px;
+    margin-bottom: 50px;
+    transition: transform 0.5s;
+    overflow: hidden;
+}
+
+.suit:hover{
+    transform: scale(110%);
+}
+
+.pant{
+    position: relative;
+    background-image: url("../images/pant-home.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: space-between;
+    height: 600px;
+    width: 420px;
+    margin-left: 10px;
+    font-size: 35px;
+    color: white;
+    text-shadow: 1px 1px 1px #303030;
+    padding: 20px 0px;
+    margin-bottom: 50px;
+    transition: transform 0.5s;
+    overflow: hidden;
+}
+
+.pant:hover{
+    transform: scale(110%);
+}
+
+.product-head{
+    font-size: 50px;
+}
+
+.bottom{
+    position: absolute;
+    bottom: 50px;
+    left: 80px;
+}
+
+a{
+    text-decoration: none;
+}

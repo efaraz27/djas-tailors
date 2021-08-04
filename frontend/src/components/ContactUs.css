@@ -1,0 +1,38 @@
+.ContactUs{
+    min-height: 60vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-us-content{
+    background-image: url(../images/contact-us-back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+}
+
+.phone, .email, .address{
+    font-size: 35px;
+    color: #303030;
+    text-shadow: 1px 1px black;
+    text-align: center;
+    padding: 40px 0px;
+    margin: 0;
+}
+
+
+.ContactUs .contact-heading{
+    color: #303030;
+    text-shadow: 1px 1px #303030;
+    margin: 0;
+    font-size: 50px;
+}
+
+@media screen and (max-width:800px){
+    .phone, .email, .address{
+        font-size: 20px;
+    }
+}
+

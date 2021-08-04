@@ -1,0 +1,119 @@
+.Home{
+    min-height: 94vh;
+    min-width: 99vw;
+    background-image: url("../images/front-img.jpg");
+    background-repeat: no-repeat;
+    background-size: auto 100vh ;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 50px;
+    text-decoration: none;
+}
+
+.content {
+    width: 100%;
+    overflow: hidden;
+  }
+  
+    .content .slogan {
+        animation: 2s slide-right 0s forwards;
+        transform:translateX(-100%);
+    }
+    .content .tagline {
+        animation: 2s slide-right 1s forwards;
+        transform:translateX(-100%);
+    }
+    .content .btn {
+        animation: 2s slide-right 1.5s forwards;
+        transform:translateX(-120%);
+    }
+  
+@keyframes slide-right {
+    to {
+      transform:translateX(0);
+    }
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    position: absolute;
+    margin-top: 150px;
+    
+}
+
+.slogan{
+    text-align: left;
+    font-size: 70px;
+    color: azure;
+    margin: 10px;
+    text-shadow: 1px 1px 2px black;
+}
+
+.tagline{
+    text-align: left;
+    font-size: 50px;
+    color: azure;
+    margin: 10px;
+}
+
+.btn{
+    text-decoration: none;
+    text-align: left;
+    font-size: 30px;
+    color: black;
+    margin-left: 10px;
+    border: solid 2px #039BE5;
+    border-radius: 20px;
+    margin-right: auto;
+    align-self: left;
+    padding: 20px;
+    color: azure;
+    text-shadow: 1px 1px 2px black;
+    transition: background-color 0.25s;
+}
+
+.btn:hover{
+    cursor: pointer;
+    background-color: #039BE5;
+    color: azure;
+}
+
+
+.btn {
+    font-size: 50px;
+}
+
+@media screen and (max-width:800px){
+
+    .shirt-home .content{
+        max-width: 95vw;
+    }
+    .slogan{
+        font-size: 35px;
+        padding-bottom: 20px;
+    }
+    .tagline{
+        font-size: 25px;
+    }
+    .btn {
+        font-size: 25px;
+    }
+
+}
+
+@media screen and (max-width:1000px){
+    .slogan{
+        font-size: 45px;
+    }
+    .tagline{
+        font-size: 30px;
+    }
+    .btn {
+        font-size: 30px;
+    }
+}
+
+

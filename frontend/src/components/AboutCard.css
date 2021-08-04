@@ -1,0 +1,30 @@
+.about-card{
+    max-width: 25vw;
+    padding: 10px;
+}
+
+.about-card .about-image img{
+    max-width: 25vw;
+}
+
+.about-card .about-desc{
+    font-size: 25px;
+    max-width: max-content;
+}
+
+
+@media screen and (max-width:1000px){
+    .about-card .about-desc{
+        font-size: 17px;
+    }
+}
+
+
+@media screen and (max-width:800px){
+    .about-card .about-desc{
+        font-size: 15px;
+    }
+    .about-card{
+        max-width: max-content;
+    }
+}

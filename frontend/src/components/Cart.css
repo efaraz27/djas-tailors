@@ -1,0 +1,28 @@
+.Cart{
+    background-color: #303030;
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow-y: auto;
+}
+
+.heading{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    margin-bottom: 35px;
+    margin-top: 20px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid white;
+}
+
+.checkout-button{
+    height: 100px;
+    width: 150px;
+}
+
+.checkout-button-container{
+    margin: 100px;
+}

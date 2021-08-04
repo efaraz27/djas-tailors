@@ -1,0 +1,6 @@
+export const SHOW_HIDE_CART = 'SHOW_HIDE_CART'
+export const ADD_TO_CART = 'ADD_TO_CART'
+export const REMOVE_ITEM = 'REMOVE_ITEM'
+export const SET_CART= 'SET_CART'
+export const SET_TOTAL_AMOUNT= 'SET_TOTAL_AMOUNT'
+export const SET_ORDER_ID = 'SET_ORDER_ID'

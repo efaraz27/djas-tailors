@@ -1,0 +1,53 @@
+.CartItem{
+    border: 3px solid white;
+    padding: 10px 0;
+    margin-top: 10px;
+    border-radius: 25px;
+    padding: 20px 10px;
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-right: 30px;
+    margin-left: 25vw;
+    margin-right: 25vw;
+    max-height: fit-content;
+}
+  
+li {
+    list-style-type: none;
+    height: 100px;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.item-img{
+    height: 200px;
+}
+
+.item{
+    color: white;
+    font-size: 20px;
+    max-height: fit-content;
+    align-self: center;
+}
+
+.remove-button{
+    max-height: 35px;
+    margin: 0;
+    align-self: center;
+}
+
+.properties{
+    align-items: left;
+    vertical-align: middle;
+    margin-top: 10px;
+    padding: 10px 0px;
+}
+
+.property{
+    color: white;
+    text-align: left;
+}

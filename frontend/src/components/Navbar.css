@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+*{
+    font-family: 'Raleway', sans-serif;
+}
+
+
+
+.logo{
+    color: azure;
+    font-size: 30px;
+}
+
+
+.Navbar{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px 20px;
+    margin: 0;
+}
+
+.Navbar {
+    color: azure;
+    font-size: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: azure;
+    transition: color 0.25s;
+}
+
+.navLinks a:hover{
+    color: #039BE5;
+}
+
+ul{
+    margin: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+li{
+    max-height: 35px;
+    padding: 0 20px;
+    cursor: pointer;
+}
+
+.Navbar{
+    background-color: #212121;
+}
+
+.buttons li{
+    color: #039BE5;
+    border: solid 1px #039BE5;
+    border-radius: 5px;
+    padding-bottom: 2px;
+    font-size: 25px;
+}
+
+.buttons li:hover{
+    cursor: pointer;
+    background-color: #039BE5;
+    color: azure;
+}
+
+
+@media screen and (max-width:800px){
+    .logo{
+        font-size: 22px;
+    }
+    .Navbar a{
+        font-size: 15px;
+    }
+    .navLinks{
+        display: none;
+    }
+    
+}

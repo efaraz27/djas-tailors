@@ -1,0 +1,83 @@
+.shirt-home{
+    background-image: url('../images/shirt_home.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-width: 100vw;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.shirt-home .btn-link{
+    text-shadow: 1px 1px 2px black;
+}
+
+.shirt-home .content{
+    max-width: 50vw;
+    padding: 50px;
+}
+
+.shirt-home .content .slogan{
+    padding-bottom: 30px ;
+}
+
+
+.shirt-page .desc{
+    font-size: 30px;
+    padding: 50px;
+    padding-bottom: 0;
+}
+
+.about-cards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+
+@media screen and (max-width:1000px){
+    .slogan{
+        font-size: 45px;
+    }
+    .tagline{
+        font-size: 30px;
+    }
+    .btn a{
+        font-size: 30px;
+    }
+}
+
+
+@media screen and (max-width:800px){
+
+    .shirt-home .content{
+        max-width: 95vw;
+    }
+    .slogan{
+        font-size: 35px;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .tagline{
+        font-size: 25px;
+        text-align: center;
+    }
+    .btn a{
+        font-size: 25px;
+        text-align: center;
+    }
+    .shirt-page .header{
+        font-size: 35px;
+    }
+    .shirt-page .desc{
+        font-size: 20px;
+    }
+    .about-cards{
+        flex-direction: column;
+        width: 90vw;
+    }
+
+}
+

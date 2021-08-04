@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="80px" height="80px" viewBox="0 0 80 80" style="enable-background:new 0 0 80 80;" xml:space="preserve">
+<rect style="fill:none;" width="80" height="80"/>
+<path style="opacity:0.35;" d="M73.862,39.349c0-1.047-3.398-13.812-5.613-17.621c-0.472-0.809-1.35-1.448-2.099-1.815
+	c-0.443-0.215-0.771-0.348-0.771-0.348s3.795,3.527-0.549,6.324c-7.635,4.913-20.97,7.771-23.069,8.199h-0.003
+	c-0.01,0.002-0.02,0.004-0.028,0.008c-0.163,0.033-0.26,0.051-0.26,0.051c0.003,0.004,0.008,0.007,0.013,0.01
+	c-1.146,0.276-2.143,0.655-3.011,1.107l-2.758-1.312l-4.452,6.909c0.811-1.352,1.468-2.426,1.865-3.034
+	c2.31-3.555,2.247-4.017,2.247-4.017c-10.42-3.383-9.446-3.227-16.338-5.914c-6.699-2.614-5.082-7.839-5.082-7.839
+	c-2.78,1.663-6.163,13.72-7.745,19.444c-1.256,4.543,6.399,10.246,6.399,10.246s8.175-2.462,10.899-8.164
+	c0,0,4.264,3.241,15.701,3.241c7.656,0,12.729-1.333,15.31-1.688c0,0,2.546,3.165,5.189,4.925c4.283,2.852,4.932,1.815,4.932,1.815
+	C69.506,46.381,73.849,41.321,73.862,39.349z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="12.6709" y1="25.1465" x2="67.7705" y2="25.1465">
+	<stop  offset="0" style="stop-color:#D5D7D8"/>
+	<stop  offset="0.1822" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.8283" style="stop-color:#EFF0F0"/>
+	<stop  offset="1" style="stop-color:#C2C2C2"/>
+</linearGradient>
+<path style="fill:url(#SVGID_1_);stroke:#000000;stroke-width:0.935;stroke-miterlimit:10;" d="M13.825,17.764
+	c5.111-3.057,13.167-3.345,25.642-3.345c12.474,0,26.212,0.807,28.278,4.847c0,0,1.868,16.186-26.197,16.603
+	c-13.28,0.199-23.91-5.563-26.104-9.012L12.671,20.9L13.825,17.764"/>
+<path style="fill:#939598;stroke:#000000;stroke-width:0.935;stroke-miterlimit:10;" d="M24.976,28.542
+	c0,0,8.205-0.547,14.194-0.514c4.685,0.025,15.368,0.319,15.368,0.319l-0.751,0.866l-13.052,2.861L35.4,33.882l-4.664-2.208
+	L24.976,28.542z"/>
+<polygon style="fill:#FFFFFF;stroke:#000000;stroke-width:0.935;stroke-miterlimit:10;" points="38.212,32.746 31.889,42.858 
+	24.005,40.377 30.438,30.71 "/>
+<path style="fill:#FFFFFF;stroke:#000000;stroke-width:0.935;stroke-miterlimit:10;" d="M55.295,41.84c0,0-16.253,2.805-22.75,1.472
+	c-0.346,0-0.227-0.601-0.317-2.068c0.361-2.76,0.413-6.821,9.35-9.237l9.98,3.36l4.126,5.956"/>
+<path style="fill:#FFFFFF;stroke:#000000;stroke-width:0.935;stroke-miterlimit:10;" d="M68.092,19.738
+	c2.167,4.485,5.436,14.026,5.436,15.071c0.839,4.994-8.789,12.753-9.538,13.25c-7.655-2.591-11.938-12.571-22.621-16.158
+	c0,0,15.031-2.961,23.335-8.304c4.346-2.795,0.548-6.324,0.548-6.324s0.332,0.134,0.771,0.35
+	C66.773,17.989,67.687,18.897,68.092,19.738z"/>
+<path style="fill:#FFFFFF;stroke:#000000;stroke-width:0.935;stroke-miterlimit:10;" d="M35.32,31.988
+	c-10.817,3.149-14.989,14.667-22.323,15.814c-0.608-0.342-7.266-4.926-5.485-13.571c1.072-5.2,3.534-14.804,6.313-16.467
+	c0,0-1.311,4.602,5.083,7.838C25.675,29.027,34.411,31.679,35.32,31.988z"/>
+<g>
+	<circle style="fill:none;stroke:#000000;stroke-width:0.935;stroke-miterlimit:10;" cx="38.297" cy="39.311" r="2.599"/>
+	<circle style="fill:none;stroke:#000000;stroke-width:0.935;stroke-miterlimit:10;" cx="38.297" cy="39.311" r="1.17"/>
+</g>
+<path style="fill:none;stroke:#939598;stroke-width:0.7254;stroke-miterlimit:10;" d="M8.263,33.252c0,0-1.365,5.087,5.381,12.087
+	c2.72,0.564,11.008-12.544,18.874-13.817"/>
+<path style="fill:none;stroke:#939598;stroke-width:0.7254;stroke-miterlimit:10;" d="M44.959,31.5
+	c5.276,0.101,15.786,13.323,18.899,13.969c0.049,0.009,3.243-1.685,5.299-4.65c3.512-5.066,3.344-8.173,3.344-8.173"/>
+<path style="fill:none;stroke:#939598;stroke-width:0.7254;stroke-miterlimit:10;" d="M20.124,25.868c0,0,3.072-1.625,20.515-1.625
+	s19.788,1.732,19.788,1.732"/>
+<ellipse style="fill:none;stroke:#000000;stroke-width:0.8946;stroke-miterlimit:10;" cx="14.553" cy="41.061" rx="1.639" ry="1.63"/>
+<ellipse style="fill:none;stroke:#000000;stroke-width:0.9094;stroke-miterlimit:10;" cx="63.989" cy="41.45" rx="1.693" ry="1.63"/>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>

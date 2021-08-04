@@ -1,0 +1,56 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.12.1",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.60",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.2",
+    "emailjs-com": "^2.6.4",
+    "firebase": "^8.7.1",
+    "format-currency": "^1.0.0",
+    "razorpay": "^2.0.6",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.6.1",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.10.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "react-scroll": "^1.8.2",
+    "react-spring": "^9.2.4",
+    "react-toastify": "^7.0.4",
+    "request": "^2.88.2",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.3%",
+      "not ie 11",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      ">0.3%",
+      "not ie 11",
+      "not dead",
+      "not op_mini all"
+    ]
+  }
+}

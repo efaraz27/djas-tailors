@@ -1,0 +1,140 @@
+{
+    "0": {
+        "type": "Shirt",
+        "model": "Men",
+        "collar": "Business Classic",
+        "cuff": "Convertible",
+        "sleeve": "Long",
+        "pocket": "Left",
+        "placket": "Hidden Buttons",
+        "bottomcut": "Long",
+        "backdetail": "Back Waist Darts",
+        "backyoke": "Classic",
+        "fabric": "Royale White",
+        "price": "1000",
+        "image": "/static/media/royale_white.d9080d56.png",
+        "size": {
+            "normalSize": 36,
+            "chestSize": 30,
+            "fitType": "Slim",
+            "heightRange": "5'3' - 5'6'"
+        },
+        "id": 0
+    },
+    "1": {
+        "type": "Three Piece Suit",
+        "buttoning": "Two Button",
+        "lapel": "Standard",
+        "pocketType": "Flap",
+        "vent": "Single Vent",
+        "pantButtoning": "Hidden",
+        "pantPocket": "Straight",
+        "backPocketDesign": "Buttoned",
+        "backPocketPlacement": "Right",
+        "fabric": "Alsace Sand",
+        "price": 2200,
+        "image": "/static/media/alsace sand.f4a96ad9.png",
+        "size": {
+            "jacketSize": {
+                "chestSize": 32,
+                "length": 26,
+                "waistSize": 28,
+                "hipSize": 33,
+                "shoulderSize": 15,
+                "sleevesLength": 23,
+                "fitType": "Slim",
+                "heightRange": "5'3' - 5'6'"
+            },
+            "pantSize": {
+                "normalSize": 36,
+                "length": 36,
+                "waistSize": 25,
+                "fitType": "Slim",
+                "heightRange": "5'3' - 5'6'"
+            }
+        },
+        "id": 1
+    },
+    "2": {
+        "type": "Pant",
+        "model": "Chinos",
+        "sidepocket": "Beveled",
+        "backpocketstyle": "Buttoned",
+        "backpocket": "Right",
+        "fly": "Zipper Fly",
+        "fabric": "Burgundy",
+        "size": {
+            "normalSize": 36,
+            "length": 36,
+            "waistSize": 25,
+            "fitType": "Slim",
+            "heightRange": "5'3' - 5'6'"
+        },
+        "price": "600",
+        "id": 2,
+        "image": "/static/media/burgundy.e89371d0.png"
+    },
+    "firstName": "Ehtesham",
+    "lastName": "Faraz",
+    "address1": "12, North Range",
+    "address2": "",
+    "city": "Kolkata",
+    "zip": "700017",
+    "country": "India",
+    "entity": "event",
+    "account_id": "acc_HafPTQ34LqIhyv",
+    "event": "payment.captured",
+    "contains": [
+        "payment"
+    ],
+    "payload": {
+        "payment": {
+            "entity": {
+                "id": "pay_HhBn4ZgRcC2Z4m",
+                "entity": "payment",
+                "amount": 380000,
+                "currency": "INR",
+                "status": "captured",
+                "order_id": "order_HhBmXPoixigzTy",
+                "invoice_id": null,
+                "international": false,
+                "method": "card",
+                "amount_refunded": 0,
+                "refund_status": null,
+                "captured": true,
+                "description": "Thank you for shopping with us",
+                "card_id": "card_HhBn4ceYHhGvkf",
+                "card": {
+                    "id": "card_HhBn4ceYHhGvkf",
+                    "entity": "card",
+                    "name": "Ehtesham Faraz",
+                    "last4": "1111",
+                    "network": "Visa",
+                    "type": "debit",
+                    "issuer": null,
+                    "international": false,
+                    "emi": false,
+                    "sub_type": "consumer"
+                },
+                "bank": null,
+                "wallet": null,
+                "vpa": null,
+                "email": "efaraz27@gmail.com",
+                "contact": "+919674156515",
+                "notes": [],
+                "fee": 8968,
+                "tax": 1368,
+                "error_code": null,
+                "error_description": null,
+                "error_source": null,
+                "error_step": null,
+                "error_reason": null,
+                "acquirer_data": {
+                    "auth_code": "491474"
+                },
+                "created_at": 1628095021
+            }
+        }
+    },
+    "created_at": 1628095023
+}

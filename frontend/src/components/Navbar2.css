@@ -1,0 +1,15 @@
+
+.home-button{
+    color: white;
+    border: solid 1px #039BE5;
+    border-radius: 5px;
+    transition: background-color 0.25s;
+    padding: 3px 10px;
+    font-size: 25px;
+}
+
+.home-button:hover{
+    cursor: pointer;
+    background-color: #039BE5;
+    color: azure;
+}

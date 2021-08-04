@@ -1,0 +1,40 @@
+.Steps{
+    background-color: azure;
+    min-height: 95vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.steps-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.step-img img{
+    height: 300px;
+    padding: 10px;
+}
+
+.step-desc{
+    width: 250px;
+    padding-left: 40px;
+}
+
+.step{
+    padding: 20px;
+}
+
+.step-heading{
+    color: #303030;
+    font-size: 30px;
+}
+
+
+.header{
+    text-align: center;
+    font-size: 80px;
+    padding: 20px;
+    color: #303030;
+}

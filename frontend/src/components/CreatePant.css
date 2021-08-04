@@ -1,0 +1,63 @@
+.create-pant{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: #303030;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+.image{
+    overflow-x:hidden;
+    margin-bottom: 2%;
+    border: solid 2px #e74c3c;
+    border-radius: 10px;
+    background-color: white;
+    margin: 5px;
+    width: fit-content;
+    height: fit-content;
+}
+.desc{
+    font-size: 20px;
+    padding: 10px;
+    font-size: black;
+}
+
+@media screen and (max-width: 650px) {
+    .image,.next-button{
+        width: 370px;
+    }
+
+    
+}
+
+@media screen and (max-width: 550px) {
+    .image,.next-button{
+        width: 350px;
+    }
+    
+}
+
+@media screen and (max-width: 500px) {
+    .image,.next-button{
+        width: 330px;
+    }
+    
+}
+@media screen and (max-width: 450px) {
+    .image,.next-button{
+        width:300px
+    }
+    
+}
+
+@media screen and (max-width: 430px) {
+    .image,.next-button{
+        transform: scale(90%);
+    }
+    
+}
+
