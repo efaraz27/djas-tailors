@@ -8,4 +8,4 @@ Front-end Framework used: React.js + Material-UI
 Backend Framework : Node.js + Express.js  
 Database Service: MongoDB Atlas hosted on AWS  
 Payment Gateway: Razorpay  
-Authentication: Firebase (current not an active feature but implemented for future scaling of application)  
+Authentication: Firebase (currently not an active feature but implemented for future scaling of application)  
